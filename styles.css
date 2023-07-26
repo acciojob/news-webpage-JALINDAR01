@@ -24,6 +24,7 @@ header{
     border: 1px solid black;
 }
 ..pictorial-news-section{
-    text-align: right;
+    text-align: center;
     border: 1px solid black;
+    display: inline-block;
 }
