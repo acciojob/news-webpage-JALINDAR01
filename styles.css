@@ -23,7 +23,7 @@ header{
     text-align: center;
     border: 1px solid black;
 }
-..pictorial-news-section{
+.pictorial-news-section{
     text-align: center;
     border: 1px solid black;
     display: inline-block;
